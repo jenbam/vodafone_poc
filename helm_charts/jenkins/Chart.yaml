@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "v0.0.1"
+description: A Helm chart for deploying Jenkins on OpenShift with some additional build agents and plugins
+name: jenkins
+version: 0.1.0
+home: https://github.com/jenbam/vodafone_poc/helm_charts
