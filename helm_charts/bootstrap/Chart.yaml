@@ -1,0 +1,14 @@
+apiVersion: v2
+name: bootstrap
+description: A Helm chart creating projects for Vodafone CICD poc
+type: application
+# This is the chart version. This version number should be incremented each time you make changes
+version: 0.0.1
+# This is the version number of the application being deployed. This version number should be
+appVersion: 0.0.1
+dependencies:
+  - name: bootstrap-project
+    version: "0.0.1"
+    repository: https://github.com/jenbam/vodafone_poc/helm_charts
+
+
