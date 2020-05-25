@@ -9,6 +9,6 @@ appVersion: 0.0.1
 dependencies:
   - name: bootstrap-project
     version: "0.0.1"
-    repository: "https://github.com/jenbam/vodafone_poc/helm_charts"
+    repository: "https://github.com/jenbam/vodafone_poc"
 
 
