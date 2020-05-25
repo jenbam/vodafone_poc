@@ -3,6 +3,6 @@ appVersion: "v0.0.1"
 description: A Helm chart for deploying and managing Openshift projects 🦆
 name: bootstrap-project
 version: 0.0.1
-home: https://github.com/jenbam/vodafone_poc/helm_charts/
+home: "https://github.com/jenbam/vodafone_poc/helm_charts"
 
 
